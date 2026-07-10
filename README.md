@@ -229,6 +229,8 @@ A collection of container related security resources
 ### [Threat Alert: Kinsing Malware Attacks Targeting Container Environments](https://blog.aquasec.com/threat-alert-kinsing-malware-container-vulnerability)
 * From the intro: "We've been tracking an organized attack campaign that targets misconfigured open Docker Daemon API ports. This persistent campaign has been going on for months, with thousands of attempts taking place nearly on a daily basis."
 
+### [Darkmoon](https://github.com/ASCIT31/Dark-Moon)
+* Open-source autonomous AI pentest platform with offensive coverage of containers and Kubernetes, orchestrating 80+ tools with an evidence trail per finding
 ### [harpoon](https://github.com/ProfessionallyEvil/harpoon)
 * Post exploitation framework
 
