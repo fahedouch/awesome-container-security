@@ -103,6 +103,9 @@ A collection of container related security resources
 ### [Habitat.sh](https://www.habitat.sh/)
 * Source to deployment framework. An alternative to Kubernetes and Spinnaker. I include it here because it implements a concept of trusted images and dependency management
 
+### [HimitsuShell](https://github.com/HimitsuShell/Himitsu)
+* Compiles shell scripts into obfuscated binaries to protect proprietary build logic and scripts inside container images. (alternative to shc)
+  
 ### Commercial solutions
 * [Project Atomic](https://www.projectatomic.io/) - RedHat's complete container solution with strong built-in security
 * [Docker Cloud](https://hub.docker.com) - Continuous scanning of images along with a trust mechanism
